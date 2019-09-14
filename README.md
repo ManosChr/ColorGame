@@ -1,4 +1,4 @@
-# MuseumOfCandy
+# ColorGame
  
 ## Description
 
