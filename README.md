@@ -12,4 +12,4 @@
 git clone https://github.com/ManosChr/ColorGame.git
 ```
 
-- open the colorGame.html file on browser
+- open the index.html file on browser
